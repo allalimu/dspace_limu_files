@@ -682,7 +682,7 @@
                 <div class="row hidden-xs hidden-sm hidden-md">
                     <div class="col-lg-9">
                         <div style="background-color: #ccc; padding: 10px;" >
-			               <a style="padding-left:25px;" href="http://www.dspace.org">DSpace 5.2</a> | <a href="http://ubuntu.sun.ac.za">Ubuntu 14.04</a> | Copyright © <a href="http://www.sun.ac.za" target="_blank">Stellenbosch University</a>
+			           Copyright © <a href="http://limu.edu.ly" target="_blank">Libyan International Medical University</a>
                         </div>                        
                     </div>
                     <div class="col-lg-3 hidden-print">
